@@ -1,6 +1,3 @@
-Here's a **beautifully formatted and professional-looking `README.md`** for your project:
-
----
 
 # 🍽️ Restaurant User Satisfaction Survey Dashboard
 
